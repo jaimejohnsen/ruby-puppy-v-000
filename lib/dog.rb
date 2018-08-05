@@ -8,5 +8,6 @@ attr_accessor :name
   end
 
   def self.all
+
   end
 end
