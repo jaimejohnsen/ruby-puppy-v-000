@@ -15,4 +15,5 @@ attr_accessor :name
 
   def self.clear_all
   end
+  
 end
