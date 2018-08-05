@@ -8,6 +8,8 @@ attr_accessor :name
   end
 
   def self.all
+    @@all.each do |name|
+
 
   end
 end
